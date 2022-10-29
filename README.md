@@ -16,7 +16,7 @@
 
 文本分类系统流程如图所示：
 
-![image](assets/image-20221027154512-ohoibvo.png)
+![image](assets/image-20221029093940-hw9a81n.png)
 
 # 4. 浅层学习的具体过程
 
